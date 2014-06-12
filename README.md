@@ -1,14 +1,11 @@
 # tic-tac-toe
 
-A Clojure library designed to ... well, that part is up to you.
+Boston Clojure Dojo project for tic tac toe. 
 
 ## Usage
 
-FIXME
+This is initially a pure Clojure project but looking at 
 
-## License
+- ClojureScript 
+- http://rigsomelight.com/2014/06/03/devcards-taking-interactivity-to-the-next-level.html
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
